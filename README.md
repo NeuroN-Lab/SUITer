@@ -38,7 +38,7 @@ In some cases SUITer needs MATLAB to be run as Administrator on Windows vista or
 
 **Step 3:** Install CAT12-r1907 and SUIT-3.5
 
-If you need data to test the app with, you can find a small dataset [here](https://figshare.com/articles/media/SUITer_An_Automated_Method_for_Improving_Segmentation_of_Infratentorial_Structures_at_Ultra-High-Field_MRI/21162487)!
+If you need data to test the app with, you can find a small dataset [here](https://figshare.com/articles/media/SUITer_An_Automated_Method_for_Improving_Segmentation_of_Infratentorial_Structures_at_Ultra-High-Field_MRI/21162487)
 
 
 
@@ -65,9 +65,13 @@ If you need data to test the app with, you can find a small dataset [here](https
 
 **Step 8:** Clean up
 
+
+
 ## Uninstallation
 
 Should you want to uninstall SUITer, you can do so from the MATLAB GUI. Find the SUITerApp App in your application list, right click on it and select “Uninstall”.
+
+
 
 ## Contact information
 If you have any issues or questions, please send us an email to suiter.help@gmail.com, we’ll try to help you as best we can.
