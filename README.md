@@ -26,8 +26,17 @@ You can install CAT12 and SUIT toolboxes for spm12 manually, or use the built-in
 Any requirement of SPM12, CAT12 and SUIT is also naturally required for SUITer.
 In some cases SUITer needs MATLAB to be run as Administrator on Windows vista or higher and MacOS 10.15.6 or higher systems. If you get “Permission Denied” errors during execution, then you most likely need to run MATLAB as Administrator, and then you can run SUITer correctly.
 
+## How to use SUITer?
 
-## The SUITer Pipeline ⇢ Outputs
+**Step 1:**Install SUITer App!
+
+**Step 1:**Selecting the SPM12 path
+
+**Step 1:**Installing CAT12-r1907 and SUIT-3.5
+
+If you need data to test the app with, you can find a small dataset [here](https://figshare.com/articles/media/SUITer_An_Automated_Method_for_Improving_Segmentation_of_Infratentorial_Structures_at_Ultra-High-Field_MRI/21162487)!
+
+## SUITer Pipeline ⇢ Outputs
 **Step 1:** Setup (Files folder selection and data and folder organization) 
 
 **Step 2:** CAT12 Segmentation
