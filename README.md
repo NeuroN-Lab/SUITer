@@ -27,7 +27,7 @@ Any requirement of SPM12, CAT12 and SUIT is also naturally required for SUITer.
 In some cases SUITer needs MATLAB to be run as Administrator on Windows vista or higher and MacOS 10.15.6 or higher systems. If you get “Permission Denied” errors during execution, then you most likely need to run MATLAB as Administrator, and then you can run SUITer correctly.
 
 
-## The SUITer Pipeline
+## The SUITer Pipeline/Outputs
 **Step 1:** Setup (Files folder selection and data and folder organization) 
 
 **Step 2:** CAT12 Segmentation
