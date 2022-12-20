@@ -74,5 +74,5 @@ You can uninstall SUITer App from the MATLAB GUI. Find the SUITerApp App in your
 
 
 ## Contact information
-If you have any issues or questions, please send us an email to suiter.help@gmail.com, we’ll try to help you as best we can.
+If you have any issues or questions regarding SUITerApp, please send us an email to suiter.help@gmail.com, we’ll try to help you as best we can.
 
