@@ -32,11 +32,11 @@ In some cases SUITer needs MATLAB to be run as Administrator on Windows vista or
 
 ## How to use SUITer?
 
-**Step 1:** Install SUITer App!
+**Step 1:** Install SUITer App
 
-**Step 2:** Selecting the SPM12 path
+**Step 2:** Select the SPM12 path
 
-**Step 3:** Installing CAT12-r1907 and SUIT-3.5
+**Step 3:** Install CAT12-r1907 and SUIT-3.5
 
 If you need data to test the app with, you can find a small dataset [here](https://figshare.com/articles/media/SUITer_An_Automated_Method_for_Improving_Segmentation_of_Infratentorial_Structures_at_Ultra-High-Field_MRI/21162487)!
 
