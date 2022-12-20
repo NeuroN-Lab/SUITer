@@ -12,6 +12,7 @@ SUITer is a user friendly MATLAB App that allows accurate segmentations of infra
 El Mendili MM, Petracca M, Podranski K, Fleysher L, Cocozza S, Inglese M. SUITer: An Automated Method for Improving Segmentation of Infratentorial Structures at Ultra-High-Field MRI. J Neuroimaging. 2020 Jan;30(1):28-39. doi: 10.1111/jon.12672. Epub 2019 Nov 5.
 
 
+
 ## SUITer requirements
 
 **(1)**	MATLAB R2021b (or newer) 
@@ -26,15 +27,20 @@ You can install CAT12 and SUIT toolboxes for spm12 manually, or use the built-in
 Any requirement of SPM12, CAT12 and SUIT is also naturally required for SUITer.
 In some cases SUITer needs MATLAB to be run as Administrator on Windows vista or higher and MacOS 10.15.6 or higher systems. If you get “Permission Denied” errors during execution, then you most likely need to run MATLAB as Administrator, and then you can run SUITer correctly.
 
+
+
+
 ## How to use SUITer?
 
-**Step 1:**Install SUITer App!
+**Step 1:** Install SUITer App!
 
-**Step 1:**Selecting the SPM12 path
+**Step 2:** Selecting the SPM12 path
 
-**Step 1:**Installing CAT12-r1907 and SUIT-3.5
+**Step 3:** Installing CAT12-r1907 and SUIT-3.5
 
 If you need data to test the app with, you can find a small dataset [here](https://figshare.com/articles/media/SUITer_An_Automated_Method_for_Improving_Segmentation_of_Infratentorial_Structures_at_Ultra-High-Field_MRI/21162487)!
+
+
 
 ## SUITer Pipeline ⇢ Outputs
 **Step 1:** Setup (Files folder selection and data and folder organization) 
