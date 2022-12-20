@@ -14,9 +14,9 @@ El Mendili MM, Petracca M, Podranski K, Fleysher L, Cocozza S, Inglese M. SUITer
 
 ## SUITer requirements
 
-**(1)**	MATLAB version R2021b (or newer) 
+**(1)**	MATLAB R2021b (or newer) 
 
-**(2)**	SPM12 to be installed on your computer
+**(2)**	SPM12
 
 **(3)**	CAT12-r1907
 
