@@ -69,7 +69,7 @@ If you need data to test the app with, you can find a small dataset [here](https
 
 ## Uninstallation
 
-You can uninstall SUITer App from the MATLAB GUI. Find the SUITerApp App in your application list, right click on it and select “Uninstall”.
+You can uninstall SUITerApp from the MATLAB GUI. Find the SUITerApp App in your application list, right click on it and select “Uninstall”.
 
 
 
