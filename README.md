@@ -1,7 +1,7 @@
 # SUITer v1.0
 
 
-![Github2](https://user-images.githubusercontent.com/83271085/208655707-6880c81e-efdf-454e-b4d4-b34f1f25108a.png)
+![Github](https://user-images.githubusercontent.com/83271085/208665774-af0b2fdd-1416-4749-ace7-b5cad77cec65.png)
 
 
 
