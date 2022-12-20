@@ -55,7 +55,7 @@ If you need data to test the app with, you can find a small dataset [here](https
 
 **Step 5:** Reslicing into SUIT atlas space 
 
-**Step 6ab:** Cerebellar GM, Cerebellar WM, Lobules, Brainstem and Cerebellar Peduncles Segmentations
+**Step 6ab:** Cerebellar GM, Lobules, Cerebellar WM, Brainstem and Cerebellar Peduncles Segmentations
 
 **⇢** SUITer_GM.nii, SUITer_WM.nii, SUITer_BS.nii and SUITer_CerebPed.nii
 
