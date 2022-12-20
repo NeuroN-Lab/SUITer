@@ -64,3 +64,11 @@ If you need data to test the app with, you can find a small dataset [here](https
 **⇢** Full Stats.csv,	SUITer_CAT12_Volumes.csv, SUITer_NumvoxGM.csv, SUITer_NumvoxWM.csv and SUITer_NumvoxBS.csv 
 
 **Step 8:** Clean up
+
+## Uninstallation
+
+Should you want to uninstall SUITer, you can do so from the MATLAB GUI. Find the SUITerApp App in your application list, right click on it and select “Uninstall”.
+
+## Contact information
+If you have any issues or questions, send an email to suiter.help@gmail.com, we’ll try to help you as best we can.
+
