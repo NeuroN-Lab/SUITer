@@ -32,14 +32,20 @@ In some cases SUITer needs MATLAB to be run as Administrator on Windows vista or
 
 **Step 2:** CAT12 Segmentation
 
+**⇢** p1.nii, p2.nii, p3.nii
+
 **Step 3:** Infratentorial Isolation
 
 **Step 4:** Dartel Normalization
 
 **Step 5:** Reslicing into SUIT atlas space 
 
-**Step 6an:** Cerebellar GM, Lobules, Brainstem, Cerebellar WM and Cerebellar Peduncles Segmentations
+**Step 6an:** Cerebellar GM, Cerebellar WM, Lobules, Brainstem and Cerebellar Peduncles Segmentations
+
+**⇢** SUITer_GM.nii, SUITer_WM.nii, SUITer_BS.nii and SUITer_CerebPed.nii
 
 **Step 7a:** Computing volumes and Creating tabular outputs
+
+**⇢** Full Stats.csv,	SUITer_CAT12_Volumes.csv, SUITer_NumvoxGM.csv, SUITer_NumvoxWM.csv and SUITer_NumvoxBS.csv 
 
 **Step 8:** Clean up
