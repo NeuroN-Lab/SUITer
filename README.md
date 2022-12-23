@@ -31,7 +31,7 @@ In some cases SUITer needs MATLAB to be run as Administrator on Windows vista or
 
 
 
-## SUITerApp Installation
+## Installation
 
 **Step 1:** Install SUITer App in Matlab
 
@@ -43,8 +43,8 @@ If you need data to test the app with, you can find a small dataset [here](https
 
 
 
-## SUITer Pipeline steps ⇢ Outputs
-**Step 1:** Setup (Files folder selection and data and folder organization) 
+## Pipeline steps ⇢ Outputs
+**Step 1:** Setup (Files/folder selection and data/folder organization) 
 
 **Step 2:** CAT12 Segmentation  **⇢**  p1.nii, p2.nii, p3.nii
 
