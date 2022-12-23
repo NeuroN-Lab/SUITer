@@ -35,7 +35,7 @@ In some cases SUITer needs MATLAB to be run as Administrator on Windows vista or
 
 **Step 1:** Install SUITer App in Matlab
 
-**Step 2:** Select the SPM12 path
+**Step 2:** Select SPM12 path
 
 **Step 3:** Install CAT12-r1907 and SUIT-3.5
 
