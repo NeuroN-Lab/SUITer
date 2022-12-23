@@ -72,4 +72,4 @@ You can uninstall SUITerApp from the MATLAB GUI. Find the SUITerApp App in your 
 If you have any issues or questions regarding SUITerApp, please send us an email to suiter.help@gmail.com, we’ll try to help you as best we can.
 
 ## Copyright
-Please make sure that your usage of SUITerApp is in compliance with the CC [BY-NC-SA 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+Please make sure that your usage of SUITerApp is in compliance with the [CC BY-NC-SA 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
