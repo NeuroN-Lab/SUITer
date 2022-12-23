@@ -5,7 +5,7 @@
 
 
 
-SUITer is a user friendly MATLAB App that allows accurate segmentations of infratentorial structures (cerebellar lobules, cerebellar white matter and brainstem) across different resolutions and MR fields (3T and 7T).
+SUITer is a user friendly MATLAB App that allows accurate segmentations of infratentorial structures (cerebellar lobules, cerebellar white matter and brainstem) across different resolutions and MR fields (7T and 3T).
 
 Comprehensive documentation is provided inside [SUITer v1.0 zip file](https://drive.google.com/file/d/19GEJEMoyqOTtReBpA76qo4oTn6WC_jiz/view?usp=share_link)
 
@@ -39,7 +39,7 @@ In some cases SUITer needs MATLAB to be run as Administrator on Windows vista or
 
 **Step 3:** Install CAT12-r1907 and SUIT-3.5
 
-If you need data to test the app with, you can find [here](https://figshare.com/articles/media/SUITer_An_Automated_Method_for_Improving_Segmentation_of_Infratentorial_Structures_at_Ultra-High-Field_MRI/21162487) 40 T1w brain MR images from 20 subjects (10 MS patients and 10 HC) acquired at both 3T and 7T 
+If you need data to test the app with, you can find [here](https://figshare.com/articles/media/SUITer_An_Automated_Method_for_Improving_Segmentation_of_Infratentorial_Structures_at_Ultra-High-Field_MRI/21162487) 40 T1w brain MR images from 20 subjects (10 MS patients and 10 HC) acquired at both 7T and 3T 
 
 
 
