@@ -48,7 +48,7 @@ If you need data to test the app with, you can find [here](https://figshare.com/
 
 **Step 2:** CAT12 Segmentation  
          
-   **⇢**  p1.nii, p2.nii, p3.nii
+         ⇢  p1.nii, p2.nii, p3.nii
 
 **Step 3:** Infratentorial Isolation
 
@@ -58,11 +58,11 @@ If you need data to test the app with, you can find [here](https://figshare.com/
 
 **Step 6ab:** Cerebellar GM, Lobules, Cerebellar WM, Brainstem and Cerebellar Peduncles Segmentations  
            
-   **⇢**  SUITer_GM.nii, SUITer_WM.nii, SUITer_BS.nii and SUITer_CerebPed.nii
+         ⇢  SUITer_GM.nii, SUITer_WM.nii, SUITer_BS.nii and SUITer_CerebPed.nii
 
 **Step 7ab:** Computing volumes and Creating tabular outputs  
            
-   **⇢**  Full Stats.csv, SUITer_CAT12_Volumes.csv, SUITer_NumvoxGM.csv, SUITer_NumvoxWM.csv and SUITer_NumvoxBS.csv 
+         ⇢  Full Stats.csv, SUITer_CAT12_Volumes.csv, SUITer_NumvoxGM.csv, SUITer_NumvoxWM.csv and SUITer_NumvoxBS.csv 
 
 **Step 8:** Clean up
 
