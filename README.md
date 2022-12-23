@@ -16,13 +16,13 @@ El Mendili MM, Petracca M, Podranski K, Fleysher L, Cocozza S, Inglese M. SUITer
 
 ## Requirements
 
-**(1)**	MATLAB R2021b (or newer) 
+**+**	MATLAB R2021b (or newer) 
 
-**(2)**	SPM12
+**+**	SPM12
 
-**(3)**	CAT12-r1907
+**+**	CAT12-r1907
 
-**(4)**	SUIT-3.5
+**+**	SUIT-3.5
 
 You can install CAT12 and SUIT toolboxes for spm12 manually, or use the built-in installer that is provided within SUITer.
 Any requirement of SPM12, CAT12 and SUIT is also naturally required for SUITer.
