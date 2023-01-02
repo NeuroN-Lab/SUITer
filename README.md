@@ -62,7 +62,7 @@ If you need data to test the app with, you can find [here](https://figshare.com/
 
 **Step 7ab:** Computing volumes and Creating tabular outputs  
            
-         ⇢  Full Stats.csv, SUITer_CAT12_Volumes.csv, SUITer_NumvoxGM.csv, SUITer_NumvoxWM.csv and SUITer_NumvoxBS.csv 
+         ⇢  Stats.csv, SUITer_CAT12_Volumes.csv, SUITer_NumvoxGM.csv, SUITer_NumvoxWM.csv and SUITer_NumvoxBS.csv 
 
 **Step 8:** Clean up
 
